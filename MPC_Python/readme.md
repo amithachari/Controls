@@ -15,8 +15,14 @@ Step Response of the Plant without any controller:
 
 
 ## Results:
-### Pulse Trajectory Tracking
+### Step Trajectory Tracking
 ![image](https://github.com/amithachari/Controls/assets/64373075/0ba3956d-332c-4cc2-9f3e-e8b72e5da921)
+
+### Control Effort
+![image](https://github.com/amithachari/Controls/assets/64373075/2b2e9ff1-5f6f-45ab-b472-fbae9840d227)
+
+### Pulse Trajectory Tracking
+![image](https://github.com/amithachari/Controls/assets/64373075/3bb79877-e7e1-47bf-932b-039f06e41e24)
 
 ### Control Effort
 ![image](https://github.com/amithachari/Controls/assets/64373075/e824f1d2-b986-4ca4-ae09-d692fa6b0cf4)
