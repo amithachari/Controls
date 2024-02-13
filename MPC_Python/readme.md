@@ -14,7 +14,7 @@ Step Response of the Plant without any controller:
 
 
 
-##Results:
+## Results:
 ### Pulse Trajectory Tracking
 ![image](https://github.com/amithachari/Controls/assets/64373075/0ba3956d-332c-4cc2-9f3e-e8b72e5da921)
 
