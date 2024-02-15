@@ -1,1 +1,1 @@
-LQR Implementation in C++
+# LQR Implementation in C++
